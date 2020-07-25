@@ -1,4 +1,4 @@
-module github.com/edoshor/janus-go
+module github.com/silverark/janus-go
 
 go 1.13
 

@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/edoshor/janus-go"
-	"github.com/edoshor/janus-go/plugins"
+	"github.com/silverark/janus-go"
+	"github.com/silverark/janus-go/plugins"
 )
 
 type AdminAPI interface {
